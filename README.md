@@ -21,4 +21,4 @@
 - [CSS Tricks - HSLA](https://css-tricks.com/yay-for-hsla/)
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/CSS-Fundamentals' title='CSS Fundamentals'>CSS Fundamentals</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG CSS Fundamentals</p>
